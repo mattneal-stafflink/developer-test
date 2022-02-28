@@ -27,7 +27,7 @@ The output should be a web page that displays matching movies with their details
 
 Your HTML and CSS should pass W3 validation Instructions.
 Create your website, commit it and then push it to Github
-Email back a link to your completed code
+Email back a link to your completed code and/or upload to a staging environment.
 You may build your function within UnderStrap, or within a custom plugin. Either way is fine.
 
 All done!
